@@ -15,6 +15,6 @@ for (const file of eventFiles) {
 	} else {
 		client.on(event.name, (...args) => event.execute(...args));
 	}
-}
+}	
 
 client.login(process.env.DISCORD_BOT_TOKEN);

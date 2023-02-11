@@ -1,0 +1,14 @@
+{
+    "notificationChannels": [
+        {
+            "guildId": "484034615783194625",
+            "channelId": "1073939072348860466",
+            "comment": "愉快な仲間たち"
+        },
+        {
+            "guildId": "566948740712366081",
+            "channelId": "566948740712366083",
+            "comment": "MEMO"
+        }
+    ]
+}
